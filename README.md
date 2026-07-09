@@ -115,23 +115,6 @@ rag-assignment-2/
 
 ---
 
-## Module Description
-
-| File | Purpose |
-|---|---|
-| `ingestion.py` | Loads all text documents from the documents folder |
-| `chunking.py` | Divides documents into overlapping text chunks |
-| `embeddings.py` | Generates embeddings using the OpenAI Embedding API |
-| `vector_store.py` | Creates local Qdrant collections and stores vectors |
-| `retrieval.py` | Retrieves the most similar document chunks |
-| `prompt.py` | Creates weak and strict prompts |
-| `generation.py` | Generates the final answer using the OpenAI language model |
-| `rag_pipeline.py` | Connects document loading, chunking, embedding, and storage |
-| `config.py` | Loads API keys, model names, and project paths |
-| `assignment2.ipynb` | Demonstrates all experiments, outputs, and evaluations |
-
----
-
 ## Dataset
 
 The dataset contains ten text documents covering different topics:
@@ -413,42 +396,6 @@ The strict prompt instructed the model to:
 ### Conclusion
 
 The strict prompt produced more consistent and controlled answers and was selected for the final RAG pipeline.
-
----
-
-
-## Challenges Encountered
-
-The main challenges were:
-
-- Understanding chunk size and chunk overlap
-- Avoiding word-level chunking problems
-- Managing local Qdrant storage
-- Preventing repeated embedding API calls
-- Detecting vector size dynamically
-- Comparing Top-K values fairly
-- Understanding similarity scores
-- Distinguishing a relevant document from a relevant chunk
-- Handling questions whose answers were unavailable
-- Preventing hallucination
-- Organizing code into reusable modules
-- Keeping API keys secure
-
----
-
-## Limitations
-
-This project has several limitations:
-
-- The dataset is small and was created for learning purposes
-- Retrieval evaluation was performed manually
-- Similarity score alone does not guarantee that a chunk contains the answer
-- Only vector similarity search was used
-- No hybrid keyword and vector search was implemented
-- No reranking model was used
-- The selected chunk size may not be best for every dataset
-- Results may change if the documents or questions are modified
-- Local Qdrant is suitable for this assignment but is not a production deployment
 
 ---
 
