@@ -1,0 +1,6 @@
+openai
+qdrant-client
+python-dotenv
+pandas
+jupyter
+ipykernel

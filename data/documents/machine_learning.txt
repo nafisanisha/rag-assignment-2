@@ -1,0 +1,19 @@
+Machine learning is a branch of artificial intelligence that allows computers to learn patterns from data. Instead of writing a fixed rule for every situation, developers provide examples to a machine-learning algorithm. The algorithm studies those examples and creates a model that can make predictions or decisions on new data. Machine learning is used in areas such as healthcare, banking, education, transportation, online shopping, and cybersecurity.
+
+Supervised learning is a common type of machine learning. It uses labeled data, which means that every training example contains an input and the correct answer. For example, a model may receive emails labeled as spam or not spam. It learns the patterns of both categories and later predicts whether a new email is spam. Supervised learning is mainly used for classification and regression problems.
+
+Classification predicts a category, such as pass or fail, fraud or normal, and cat or dog. Regression predicts a numerical value, such as house price, sales amount, temperature, or electricity demand. The model uses features as input. In a house-price model, features may include house size, number of rooms, age, and location. The correct result that the model tries to predict is called the label or target.
+
+Unsupervised learning uses data without known labels. The model tries to discover hidden patterns or groups in the data. Clustering is a common example of unsupervised learning. A company may group customers according to their shopping behavior. This can help the company understand different customer types and provide more suitable services.
+
+A dataset is normally divided into training, validation, and test sets. The training set teaches the model. The validation set helps developers compare settings and select a suitable model. The test set measures the final model's performance on unseen data. Unseen data is important because a real system must work correctly on new examples, not only on the examples used during training.
+
+Overfitting happens when a model learns the training data too closely. An overfitted model may perform very well on training data but poorly on new data. Underfitting happens when the model is too simple to learn the important patterns. A good machine-learning model should create a balance between overfitting and underfitting and should perform well on unseen test data.
+
+Model performance is measured using evaluation metrics. Accuracy shows the percentage of total predictions that are correct. Precision measures how many predicted positive cases are actually positive. Recall measures how many real positive cases are successfully identified. The F1-score combines precision and recall. For regression problems, common metrics include mean absolute error and mean squared error.
+
+Data quality strongly affects model quality. Missing values, duplicate records, incorrect data, and inconsistent formats can reduce performance. Data cleaning and preprocessing should be completed before training. Developers should also prevent data leakage, which happens when information from the test data or future information enters the training process and creates unrealistic results.
+
+After evaluation, a model may be deployed in a real application. A deployed model should be monitored because real-world data can change over time. If the model's performance decreases, it may need new data or retraining. Human oversight is also important, especially when machine learning is used for medical, financial, legal, or employment decisions.
+
+Machine learning is powerful, but it does not automatically understand truth, fairness, or human values. A reliable project needs good data, suitable features, correct evaluation metrics, privacy protection, security, documentation, and human review. The success of a machine-learning system depends not only on the algorithm but also on how responsibly the complete system is designed and used.

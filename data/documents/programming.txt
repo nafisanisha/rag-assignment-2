@@ -1,0 +1,25 @@
+Programming is the process of designing and writing instructions that a computer can execute. A computer program receives input, performs operations, and produces output. Programming is used to create websites, mobile applications, games, business systems, operating systems, and artificial-intelligence tools.
+
+An algorithm is a clear sequence of steps used to solve a problem. Before writing code, a programmer may describe the solution using pseudocode or a flowchart. Planning the logic first can reduce errors and make the final code easier to understand.
+
+Variables store information used by a program. Data structures organize information so that it can be processed efficiently. Common data structures include arrays, lists, stacks, queues, dictionaries, trees, and graphs. The correct choice depends on the type of data and required operations.
+
+Control flow determines the order in which instructions are executed. Conditional statements allow a program to make decisions. Loops repeat tasks, and functions organize reusable code. Small functions with meaningful names make software easier to read, test, and maintain.
+
+Debugging is the process of finding and correcting errors in software. A developer may use error messages, print statements, logs, and debugging tools to understand a problem. Testing checks whether the program behaves as expected. Unit tests examine small functions, while integration tests check whether different parts work together.
+
+Version control records changes made to source code. Git allows developers to create branches, compare changes, return to an earlier version, and collaborate with other people. GitHub can store a project repository and support code review and documentation.
+
+Modular programming divides a large project into smaller files or components. Each module should have a clear responsibility. In a RAG project, document loading, chunking, embedding generation, vector storage, retrieval, prompts, and answer generation can be placed in separate modules.
+
+Software security includes protecting passwords, API keys, personal information, and system access. Secrets should not be hardcoded into source code. Environment variables and `.env` files can store private values. A `.gitignore` file prevents secret files and unnecessary folders from being uploaded to GitHub.
+
+Good software development requires clear requirements, readable code, testing, documentation, error handling, security, and regular maintenance. Programming is not only typing code. It is a systematic process of understanding a problem, designing a solution, checking the result, and improving the software over time.
+
+An application programming interface, or API, allows different software systems to communicate. A program can send a request to an API and receive data or a service. For example, an application may use an API to obtain weather information, create an embedding, or generate an AI answer.
+
+A database stores organized information so that applications can retrieve and update it. Traditional databases store records in tables, while vector databases store numerical embeddings for similarity search. Qdrant is a vector database that can store document chunks, vectors, and metadata for a RAG system.
+
+Code review allows another developer to examine a change before it becomes part of the main project. Reviewers may identify errors, security problems, unclear logic, or repeated code. Documentation is also important because it explains installation, project structure, configuration, and usage.
+
+Software maintenance continues after the first version is completed. Developers fix bugs, update packages, improve performance, and respond to new requirements. Reliable software is created through continuous testing, monitoring, documentation, and improvement rather than through a single coding session.

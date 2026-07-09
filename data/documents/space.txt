@@ -1,0 +1,19 @@
+Space exploration is the scientific study of space using telescopes, satellites, robotic spacecraft, and human missions. It helps scientists understand Earth, the Moon, planets, stars, galaxies, and the wider universe. Space research also supports communication, navigation, weather forecasting, and disaster monitoring.
+
+Rockets are used to carry satellites, spacecraft, equipment, and astronauts beyond Earth's atmosphere. A rocket produces thrust by pushing gases in the opposite direction. Many rockets contain several stages. Empty stages are separated during flight to reduce weight and improve efficiency.
+
+An orbit is the curved path of an object around another object because of gravity. Artificial satellites are placed in different orbits depending on their purpose. Communication satellites transmit television, internet, and telephone signals. Weather satellites observe clouds, storms, and atmospheric conditions.
+
+Robotic spacecraft can explore places that are too distant or dangerous for humans. Orbiters study planets from above, landers remain in one location, and rovers move across a surface. Space probes can collect photographs, measure temperature, analyze rocks, and study planetary atmospheres.
+
+The Moon is an important target for space exploration because it is close to Earth and contains information about the early solar system. Mars is also widely studied because evidence suggests that liquid water existed there in the past. Rovers and orbiters examine the Martian surface, climate, and geology.
+
+Human spaceflight allows astronauts to perform experiments, repair equipment, and study the effects of microgravity. Microgravity can affect muscles, bones, fluids, and other parts of the human body. Human missions require life-support systems, food, water, oxygen, radiation protection, and emergency planning.
+
+Space exploration involves many risks, including extreme temperature, vacuum, radiation, space debris, equipment failure, and communication delay. It is expensive, but it can create scientific knowledge, new technologies, skilled employment, and international cooperation. Satellite data also supports agriculture, environmental monitoring, navigation, and disaster response.
+
+Space telescopes observe the universe from above most of Earth's atmosphere. This allows them to detect light and signals that may be blocked or distorted from the ground. Space telescopes help scientists study planets, stars, galaxies, black holes, and the early universe.
+
+Mission control teams manage spacecraft operations from Earth. Engineers monitor equipment, communicate commands, analyze data, and respond to unexpected problems. Because signals take time to travel across space, distant missions may not receive immediate instructions. Spacecraft must sometimes make limited decisions automatically.
+
+Space exploration also creates environmental and ethical questions. Space debris can damage satellites and spacecraft. Future missions must consider the responsible use of the Moon, planets, and other space resources. International cooperation and clear rules are important for peaceful and sustainable exploration.

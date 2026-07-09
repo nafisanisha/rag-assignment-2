@@ -1,0 +1,20 @@
+Artificial Intelligence, commonly called AI, is a field of computer science that focuses on creating systems capable of performing tasks that normally require human intelligence. These tasks may include understanding language, recognizing images, solving problems, making decisions, learning from experience, and generating new content. AI does not mean that a computer thinks exactly like a human. Instead, it uses data, algorithms, and mathematical models to produce useful results.
+
+AI systems are designed to receive input, process information, and produce an output. The input may be text, images, sound, numbers, or information from sensors. The system analyzes the input and follows learned patterns or programmed rules. The output may be a prediction, recommendation, classification, generated answer, or automated action. The quality of the output depends on the model, data, instructions, and testing process.
+
+Machine learning is one of the most important branches of artificial intelligence. In machine learning, a computer learns patterns from data instead of depending only on fixed instructions written by a programmer. For example, a machine-learning model can study many examples of spam and normal emails. After training, it can predict whether a new email is likely to be spam.
+
+Supervised learning is a type of machine learning that uses labeled data. Labeled data contains both the input and the correct answer. For example, images may be labeled as cats or dogs. The model learns the relationship between the image features and the labels. After training, the model is tested using new data that it has not seen before.
+
+Unsupervised learning uses data without known labels. The model tries to discover patterns, similarities, or groups inside the data. For example, a business may use clustering to divide customers into groups based on their purchasing behavior. This can help the business understand different types of customers.
+
+Reinforcement learning is another type of machine learning. In reinforcement learning, an agent interacts with an environment and receives rewards or penalties based on its actions. The agent learns which actions produce better results. This method is commonly used in robotics, game-playing systems, and some decision-making problems.
+
+Deep learning is a more advanced area of machine learning. It uses artificial neural networks with many layers. These networks learn complex relationships from large amounts of data. Deep learning is widely used in speech recognition, image recognition, language translation, autonomous vehicles, and large language models.
+
+A neural network is inspired by the basic idea of connected neurons in the human brain. It contains layers of computational units that process information. The input layer receives the data, hidden layers perform calculations, and the output layer produces the result. During training, the network adjusts its internal weights to reduce errors.
+
+Training data is very important for an AI system. The model learns patterns from the examples provided during training. If the training data is incomplete, incorrect, or biased, the model may produce poor or unfair results. A large amount of data does not automatically guarantee a good model. The data must also be relevant, accurate, representative, and properly prepared.
+
+The process of using a trained model to produce a result for new input is called inference. For example, when a trained image model receives a new photograph and identifies an object, it is performing inference. Training usually requires more computing power and time than inference. After training, the model can often make predictions quickly.
+

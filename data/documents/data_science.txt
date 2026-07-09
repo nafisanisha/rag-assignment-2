@@ -1,0 +1,19 @@
+Data science is the process of collecting, cleaning, analyzing, and interpreting data to solve problems and support decisions. It combines statistics, programming, mathematics, and knowledge about a particular field. Data scientists work with data from sources such as surveys, business records, sensors, websites, mobile applications, and public databases.
+
+A data science project begins with a clear question. For example, a company may want to understand why sales are decreasing or predict future customer demand. After defining the problem, the required data is collected. Data may be structured, such as rows and columns in a table, or unstructured, such as text, images, audio, and videos.
+
+Data cleaning is an important part of data science. Real datasets may contain missing values, duplicate records, incorrect information, and inconsistent formats. If these problems are not corrected, the analysis may produce misleading results. Data cleaning may include removing duplicates, correcting errors, handling missing values, and converting data into a consistent format.
+
+Exploratory data analysis helps researchers understand the dataset before building a model. It includes calculating statistics and creating charts. The mean, median, minimum, maximum, and standard deviation summarize numerical data. Bar charts, line charts, histograms, and scatter plots help people identify patterns, trends, relationships, and unusual values.
+
+Python is commonly used in data science. Libraries such as pandas help manage tables and datasets. NumPy supports numerical calculations, while Matplotlib creates charts and graphs. Scikit-learn provides machine-learning tools. Data scientists may also use SQL to collect information from databases.
+
+Data visualization makes complex information easier to understand. A good chart should clearly communicate the important message without unnecessary details. However, correlation between two variables does not always mean that one variable causes the other. Data scientists should explain assumptions, uncertainty, limitations, and possible errors.
+
+A successful data science project should produce useful information, not only complicated calculations. Good data quality, suitable methods, ethical data use, privacy protection, clear communication, and reproducible code are important. The final result should help people understand a problem and make a better decision. Data scientists often create a data pipeline to complete repeated tasks.
+
+A pipeline may collect data from a database, clean the records, perform calculations, and save the results. Automating these steps reduces manual work and makes the analysis more consistent. However, every stage of the pipeline should be checked because an error in an early stage can affect the final result.
+
+Reproducibility is also important in data science. Another person should be able to use the same data, code, and instructions to obtain a similar result. Developers can improve reproducibility by using clear folder structures, requirements files, version control, comments, and documented assumptions. Sensitive data should never be shared without proper permission.
+
+Data science is used in healthcare, finance, education, agriculture, transportation, marketing, and environmental research. It can help predict demand, identify risk, understand customer behavior, and monitor performance. However, data should not be used without considering privacy, fairness, and possible harm. A successful project combines technical accuracy with responsible decision-making.
